@@ -1,0 +1,2 @@
+# Visualizations-for-large-datasets
+The goal of this project is to select, explore, describe various aspects of a dataset using different combinations of graphics and visualize to observe insights. To achieve this goal, a dataset that satisfies this criterion and large enough to support a variety of visualizations is to be selected. The attributes from the dataset are selected such that information from the plots generated convey necessary insights.
